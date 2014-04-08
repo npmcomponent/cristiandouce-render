@@ -2,8 +2,8 @@
  * Module dependencies.
  */
 
-var domify = require('domify');
-var merge = require('merge-util');
+var domify = require('component-domify');
+var merge = require('cristiandouce-merge-util');
 
 // `render` globals
 var _globals = {};
